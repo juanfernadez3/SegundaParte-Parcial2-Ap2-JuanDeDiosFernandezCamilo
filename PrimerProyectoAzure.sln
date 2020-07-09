@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerProyectoAzure", "PrimerProyectoAzure.csproj", "{67353DC6-C7D6-4D16-81E8-DE4F34CAC8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQUIApp", "..\..\..\Desktop\FAQUIApp\FAQUIApp.csproj", "{5CEFA6A5-3C8D-4E07-B053-5E7FDD98B047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67353DC6-C7D6-4D16-81E8-DE4F34CAC8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67353DC6-C7D6-4D16-81E8-DE4F34CAC8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67353DC6-C7D6-4D16-81E8-DE4F34CAC8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67353DC6-C7D6-4D16-81E8-DE4F34CAC8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEFA6A5-3C8D-4E07-B053-5E7FDD98B047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEFA6A5-3C8D-4E07-B053-5E7FDD98B047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEFA6A5-3C8D-4E07-B053-5E7FDD98B047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEFA6A5-3C8D-4E07-B053-5E7FDD98B047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65405360-E0AA-41CB-A644-5753FE564FF1}
+	EndGlobalSection
+EndGlobal
